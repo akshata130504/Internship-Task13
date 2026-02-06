@@ -8,7 +8,7 @@ public class JdbcDemo {
     // DB credentials
     static final String URL = "jdbc:mysql://localhost:3306/internship_db";
     static final String USER = "root";
-    static final String PASSWORD = "Akshu@123#@$";
+    static final String PASSWORD = "password";
 
     public static void main(String[] args) {
 
@@ -80,3 +80,4 @@ public class JdbcDemo {
         }
     }
 }
+
